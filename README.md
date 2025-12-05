@@ -2,7 +2,7 @@
 Machine learning project aiming to classify earthquake alerts based on several seismic metrics
 
 Public ML project for machine learning course  
-**Notebook:** `notebooks/analysis.ipynb` - **Sample data:** `data/sample/dataset_sample.csv`
+**Notebook:** `src/notebook.ipynb` - **Sample data:** `data/sample/dataset_sample.csv`
 
 ## Collaborators
 [Abigail Xie](https://github.com/axie44)  
