@@ -1,5 +1,5 @@
 # earthquake-alert-prediction
-Public ML project for machine learning course  
+Public ML project for machine learning course.  
 **Notebook:** `src/notebook.ipynb` - **Sample data:** `data/sample/dataset_sample.csv`
 
 ## Collaborators
