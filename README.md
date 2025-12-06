@@ -1,6 +1,4 @@
 # earthquake-alert-prediction
-Machine learning project aiming to classify earthquake alerts based on several seismic metrics
-
 Public ML project for machine learning course  
 **Notebook:** `src/notebook.ipynb` - **Sample data:** `data/sample/dataset_sample.csv`
 
